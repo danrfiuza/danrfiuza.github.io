@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hi there, this is my portfolio!
+         Hi there, this is my work-in-progress portfolio!
         </p>
       </header>
     </div>
